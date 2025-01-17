@@ -18,7 +18,8 @@ function checkNumber() {
         showModal(result); // Natijani modalda ko'rsatish
     }
 }
-let a = prompt ('Son kiriting' )
+let a = prompt ("Iltimos, istalgan sonni kiriting!" )
+
 if ( a % 2 == 0)
     console.log('juft')
 else
